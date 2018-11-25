@@ -1,0 +1,4 @@
+Data Structures:
+Arrays = Fixed Size
+Linked List = Any size
+Stacks = First In Last Out

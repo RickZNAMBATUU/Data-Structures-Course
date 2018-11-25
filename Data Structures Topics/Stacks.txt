@@ -1,0 +1,13 @@
+Stacks - A list with the restriction that insertion and deletion can be performed only from one end, called the top.
+
+Abstact Data Type:
+
+
+
+
+Implementation:
+Operations:
+Push -
+Pop -
+Top -
+Is Empty -
